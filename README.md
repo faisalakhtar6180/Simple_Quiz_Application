@@ -80,10 +80,4 @@ This project demonstrates:
 * Exception handling
 * Basic command-line application development
 
-## Author
 
-Faisal Akhtar
-
-## License
-
-This project is open-source and available for educational purposes.
