@@ -81,7 +81,3 @@ This project demonstrates:
 * Exception handling
 * Basic command-line application development
 
-<<<<<<< HEAD
-=======
-
->>>>>>> ba3f096d315fe1e70a978222bc64f01d85671632
