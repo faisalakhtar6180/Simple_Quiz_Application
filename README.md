@@ -2,6 +2,10 @@
 
 A command-line quiz application built with Python that tests users with multiple-choice questions from different topics such as General Knowledge, Science, Mathematics, Geography, and Technology.
 
+## Screenshot
+
+![Quiz Application Screenshot](screenshots/Simple_Quiz_Application_demo.png)
+
 
 ## Features
 
